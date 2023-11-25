@@ -30,7 +30,7 @@ public class IntToString {
 
             // Write your code here
 
-            String s = Integer.toString(n);
+            String s = Integer.toString(n); // s = "100"
 
             if (n == Integer.parseInt(s)) {
                 System.out.println("Good job");
